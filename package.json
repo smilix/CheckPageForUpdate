@@ -1,0 +1,14 @@
+{
+  "name": "YOUR-PROJECT-NAME-HERE",
+  "description": "YOUR PROJECT DESCRIPTION HERE",
+  "author": "Holger Cremer <HolgerCremer@gmail.com>",
+  "version": "0.0.1",
+  "dependencies": {
+    "feedparser": "~0.16.1",
+    "request": "~2.21.0",
+    "q": "~0.9.6"
+  },
+  "devDependencies": {
+  },
+  "engine": "node ~0.10.3"
+}
